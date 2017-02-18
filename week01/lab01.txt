@@ -1,0 +1,22 @@
+total 56
+drwxrwxrwx 2 root root 0 Feb 18 17:06 .
+drwxrwxrwx 2 root root 0 Feb 16 13:09 ..
+drwxrwxrwx 2 root root 0 Feb 18 17:04 .git
+drwxrwxrwx 2 root root 0 Feb 14 09:54 key
+-rwxrwxrwx 1 root root 0 Feb 18 17:06 lab01.txt
+drwxrwxrwx 2 root root 0 Feb 14 09:54 log
+-rwxrwxrwx 1 root root 7 Feb 14 09:50 README.md
+drwxrwxrwx 2 root root 0 Feb 14 10:01 sandbox
+drwxrwxrwx 2 root root 0 Feb 18 17:02 week00
+drwxrwxrwx 2 root root 0 Feb 14 09:53 week01
+drwxrwxrwx 2 root root 0 Feb 14 09:53 week02
+drwxrwxrwx 2 root root 0 Feb 14 09:53 week03
+drwxrwxrwx 2 root root 0 Feb 14 09:53 week04
+drwxrwxrwx 2 root root 0 Feb 14 09:53 week05
+drwxrwxrwx 2 root root 0 Feb 14 09:53 week06
+drwxrwxrwx 2 root root 0 Feb 14 09:53 week07
+drwxrwxrwx 2 root root 0 Feb 14 09:53 week08
+drwxrwxrwx 2 root root 0 Feb 14 09:53 week09
+drwxrwxrwx 2 root root 0 Feb 14 09:54 week10
+drwxrwxrwx 2 root root 0 Feb 14 09:54 xtra
+/mnt/d/Downloads/os171/week01
