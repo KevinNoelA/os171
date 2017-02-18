@@ -20,3 +20,4 @@ drwxrwxrwx 2 root root 0 Feb 14 09:53 week09
 drwxrwxrwx 2 root root 0 Feb 14 09:54 week10
 drwxrwxrwx 2 root root 0 Feb 14 09:54 xtra
 /mnt/d/Downloads/os171/week01
+Today is 18 Feb 2017 at 13:46:06

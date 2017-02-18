@@ -1,0 +1,30 @@
+#Kevin_Noel_Anugrah
+
+Week 1 Report
+
+*Cloning git repository
+Pull your git repository to your badak directory
+
+*Folders initialization
+Create new folders:
+	11 folders named week00 to week10
+	4 folders named log,key,xtra,sandbox
+fill all but sandbox folder with dummy file
+update git repository
+
+*Using vi
+Create week 0 report
+
+*Using CLI
+Using redirect operator, create a file name lab01.txt with ls- al output of your git directory, and append week 01 directory path 
+
+*Editing from github
+Create myExpectation.txt and edit it directly on Github page.
+
+*Weekly Report
+Create report.txt with short description of week 1 task
+
+*Scripting
+Write a script that outputs time and date
+redirect the output to labo1.txt
+
