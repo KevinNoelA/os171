@@ -1,0 +1,8 @@
+w01-170214-10-LR-Lecture: FOSS
+w01-170214-10-LR-Lecture: FOSS
+w01-170214-11-LR-Lecture: FOSS
+w01-170214-11-LR-Lecture: FOSS
+w01-170216-10-LR-Lecture: Shell Scripting
+w01-170216-10-LR-Lecture: Shell Scripting
+w01-170216-11-LR-Lecture: Shell Scripting
+w01-170216-11-LR-Lecture: Shell Scripting
