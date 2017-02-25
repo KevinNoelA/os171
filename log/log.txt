@@ -6,3 +6,11 @@ w01-170216-10-LR-Lecture: Shell Scripting
 w01-170216-10-LR-Lecture: Shell Scripting
 w01-170216-11-LR-Lecture: Shell Scripting
 w01-170216-11-LR-Lecture: Shell Scripting
+w02-170221-10-LR-Lecture: Encryption
+w02-170221-10-LR-Lecture: Encryption
+w02-170221-11-LR-Lecture: Encryption
+w02-170221-11-LR-Lecture: Encryption
+w02-170224-10-LR-Lecture: C Scripting
+w02-170224-10-LR-Lecture: C Scripting
+w02-170224-11-LR-Lecture: C Scripting
+w02-170224-11-LR-Lecture: C Scripting
