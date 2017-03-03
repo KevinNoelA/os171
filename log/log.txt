@@ -14,3 +14,11 @@ w02-170224-10-LR-Lecture: C Scripting
 w02-170224-10-LR-Lecture: C Scripting
 w02-170224-11-LR-Lecture: C Scripting
 w02-170224-11-LR-Lecture: C Scripting
+w03-170228-10-LR-Lecture: Booting processes
+w03-170228-10-LR-Lecture: Booting processes
+w03-170228-11-LR-Lecture: Booting processes
+w03-170228-11-LR-Lecture: Booting processes
+w03-170302-10-LR-Lecture: Linux Startup
+w03-170302-10-LR-Lecture: Linux Startup
+w03-170302-11-LR-Lecture: Memory, Pointer, Address
+w03-170302-11-LR-Lecture: Memory, Pointer, Address
