@@ -26,3 +26,11 @@ w04-170309-10-LR-Lecture: C I/O
 w04-170309-10-LR-Lecture: C I/O
 w04-170309-11-LR-Lecture: C I/O
 w04-170309-11-LR-Lecture: C I/O
+w05-170314-10-LR-Lecture: Memory
+w05-170314-10-LR-Lecture: Memory
+w05-170314-11-LR-Lecture: Memory
+w05-170314-11-LR-Lecture: Memory
+w05-170316-10-LR-Lecture: Review untuk UTS 
+w05-170316-10-LR-Lecture: Review untuk UTS 
+w05-170316-11-LR-Lecture: Review untuk UTS 
+w05-170316-11-LR-Lecture: Review untuk UTS 
