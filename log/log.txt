@@ -34,3 +34,19 @@ w05-170316-10-LR-Lecture: Review untuk UTS
 w05-170316-10-LR-Lecture: Review untuk UTS 
 w05-170316-11-LR-Lecture: Review untuk UTS 
 w05-170316-11-LR-Lecture: Review untuk UTS 
+w06-170411-10-LR-Lecture: Thread, MultiThreading
+w06-170411-10-LR-Lecture: Thread, MultiThreading
+w06-170411-11-LR-Lecture: Thread, MultiThreading
+w06-170411-11-LR-Lecture: Thread, MultiThreading
+w06-170413-10-LR-Lecture: Synchronization
+w06-170413-10-LR-Lecture: Synchronization
+w06-170413-11-LR-Lecture: Synchronization
+w06-170413-11-LR-Lecture: Synchronization
+w06-170414-22-PS-Fork 
+w06-170414-22-PS-Fork 
+w06-170414-23-PS-Fork 
+w06-170414-23-PS-Fork 
+w06-170415-00-PS-Fork 
+w06-170415-00-PS-Fork 
+w06-170415-01-PS-Fork 
+w06-170415-01-PS-Fork 
