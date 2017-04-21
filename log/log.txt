@@ -50,3 +50,11 @@ w06-170415-00-PS-Fork
 w06-170415-00-PS-Fork 
 w06-170415-01-PS-Fork 
 w06-170415-01-PS-Fork 
+w07-170418-10-LR-Lecture: Synchronization
+w07-170418-10-LR-Lecture: Synchronization
+w07-170418-11-LR-Lecture: Synchronization
+w07-170418-11-LR-Lecture: Synchronization
+w07-170420-10-LR-Lecture: Scheduling
+w07-170420-10-LR-Lecture: Scheduling
+w07-170420-11-LR-Lecture: Scheduling
+w07-170420-11-LR-Lecture: Scheduling
