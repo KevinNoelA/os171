@@ -58,3 +58,19 @@ w07-170420-10-LR-Lecture: Scheduling
 w07-170420-10-LR-Lecture: Scheduling
 w07-170420-11-LR-Lecture: Scheduling
 w07-170420-11-LR-Lecture: Scheduling
+w08-170425-10-LR-Lecture: Scheduling
+w08-170425-10-LR-Lecture: Scheduling
+w08-170425-11-LR-Lecture: Scheduling
+w08-170425-11-LR-Lecture: Scheduling
+w08-170427-10-LR-Lecture: Scheduling
+w08-170427-10-LR-Lecture: Scheduling
+w08-170427-11-LR-Lecture: File System
+w08-170427-11-LR-Lecture: File System
+w08-170427-16-PS-Socket
+w08-170427-16-PS-Socket
+w08-170429-13-PS-Socket
+w08-170429-13-PS-Socket
+w08-170429-14-PS-Socket
+w08-170429-14-PS-Socket
+w08-170429-15-PS-Socket
+
